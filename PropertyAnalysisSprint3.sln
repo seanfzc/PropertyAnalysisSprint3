@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "PropertyAnalysisSprint3", "PropertyAnalysisSprint3.rptproj", "{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.Debug|Default.ActiveCfg = Debug
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.Debug|Default.Build.0 = Debug
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.Debug|Default.Deploy.0 = Debug
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.DebugLocal|Default.Build.0 = DebugLocal
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.Release|Default.ActiveCfg = Release
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.Release|Default.Build.0 = Release
+		{AEA864B2-BEB7-47D8-97A1-2A4ECDCC2908}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E03996-FB9B-4542-9A46-10C416E7861A}
+	EndGlobalSection
+EndGlobal
